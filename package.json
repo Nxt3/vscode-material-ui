@@ -1,30 +1,32 @@
 {
-  "name": "vscode-material-ui",
-  "displayName": "Material UI",
-  "description": "VS Code theme ported from material-design-syntax on Atom",
-  "version": "0.0.1",
-  "publisher": "nxt3",
-  "engines": {
-    "vscode": "^1.22.0"
-  },
-  "icon": "",
-  "homepage": "https://github.com/Nxt3/vscode-material-ui",
-  "license": "https://github.com/Nxt3/vscode-material-ui/blob/master/LICENSE",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Nxt3/vscode-material-ui"
-  },
-  "bugs": {
-    "url": "https://github.com/Nxt3/vscode-material-ui/issues"
-  },
-  "categories": ["Themes"],
-  "contributes": {
-    "themes": [
-      {
-        "label": "vscode-material-ui",
-        "uiTheme": "vs-dark",
-        "path": "./themes/vscode-material-ui-color-theme.json"
-      }
-    ]
-  }
+    "name": "vscode-material-ui",
+    "displayName": "Material UI",
+    "description": "VS Code theme ported from material-design-syntax on Atom",
+    "version": "0.1.0",
+    "publisher": "nxt3",
+    "engines": {
+        "vscode": "^1.22.0"
+    },
+    "icon": "",
+    "homepage": "https://github.com/Nxt3/vscode-material-ui",
+    "license": "https://github.com/Nxt3/vscode-material-ui/blob/master/LICENSE",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Nxt3/vscode-material-ui"
+    },
+    "bugs": {
+        "url": "https://github.com/Nxt3/vscode-material-ui/issues"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "vscode-material-ui",
+                "uiTheme": "vs-dark",
+                "path": "./themes/vscode-material-ui-color-theme.json"
+            }
+        ]
+    }
 }
