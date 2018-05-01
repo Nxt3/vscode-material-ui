@@ -378,7 +378,7 @@
     "editorWarning.border": "#7049B800",
     "editor.wordHighlightBackground": "#2196F350",
     "editor.wordHighlightStrongBackground": "#1E88E5",
-    "editorCursor.foreground": "#1E88E5",
+    "editorCursor.foreground": "#ffffff",
     "editorGroup.background": "#1E1F29",
     "editorGroup.border": "#30343C",
     "editorGroup.dropBackground": "#2196F320",
