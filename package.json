@@ -1,0 +1,22 @@
+{
+    "name": "vscode-material-ui",
+    "displayName": "vscode-material-ui",
+    "description": "VSCode theme taken from material-design-syntax on Atom",
+    "version": "0.0.1",
+    "publisher": "nxt3",
+    "engines": {
+        "vscode": "^1.22.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "vscode-material-ui",
+                "uiTheme": "vs-dark",
+                "path": "./themes/vscode-material-ui-color-theme.json"
+            }
+        ]
+    }
+}
