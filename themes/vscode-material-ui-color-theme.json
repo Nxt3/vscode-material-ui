@@ -337,8 +337,8 @@
 
     "editorGroupHeader.tabsBackground": "#1C1D25",
     "editorGroupHeader.tabsBorder": "#00000066",
-    "tab.activeBackground": "#2196F3",
-    "tab.activeBorder": "#FFFFFF",
+    "tab.activeBackground": "#ffffff00",
+    "tab.activeBorder": "#2196F3",
     "tab.activeForeground": "#ffffff",
     "tab.border": "#1C1D25",
     "tab.inactiveBackground": "#282C34",
