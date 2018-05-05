@@ -1,7 +1,11 @@
-# Change Log
-All notable changes to the "vscode-material-ui" extension will be documented in this file.
+# Changelog
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [0.2.0]
+- Added support for indent guide color
 
-## [Unreleased]
+## [0.1.0]
+- Changed coloring of cursor in editor
+- Changed highlight color outside of editor to something more legible
+
+## [0.0.0]
 - Initial release
