@@ -299,11 +299,11 @@
     "debugExceptionWidget.border": "#1E88E5",
     "debugToolBar.background": "#1E88E5",
 
-    "titleBar.activeBackground": "#23272E",
-    "titleBar.inactiveBackground": "#23272E",
-    "titleBar.border": "#00000020",
+    "titleBar.activeBackground": "#2196F3",
+    "titleBar.inactiveBackground": "#2196F3",
+    "titleBar.border": "#2196F3",
     "titleBar.activeForeground": "#ffffff",
-    "titleBar.inactiveForeground": "#ffffff50",
+    "titleBar.inactiveForeground": "#ffffff85",
 
     "activityBar.background": "#1E88E5",
     "activityBar.border": "#000000cc",
