@@ -332,6 +332,12 @@
     "list.inactiveSelectionBackground": "#2195f34b",
     "list.inactiveSelectionForeground": "#e0e0e0",
 
+    "gitDecoration.ignoredResourceForeground": "#ffffff88",
+    "gitDecoration.modifiedResourceForeground": "#FFE57F",
+    "gitDecoration.untrackedResourceForeground": "#69F0AE",
+    "gitDecoration.conflictingResourceForeground": "#8C9EFF",
+    "gitDecoration.deletedResourceForeground": "#FF8A80",
+
     "pickerGroup.border": "#353A42",
     "pickerGroup.foreground": "#696F79",
 
