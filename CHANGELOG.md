@@ -1,5 +1,10 @@
 # Changelog
 
+## [0.3.0]
+- Made titlebar blue
+- Changed colors for git decorations in explorer
+- Updated support for editorGroup.background
+
 ## [0.2.0]
 - Added support for indent guide color
 
