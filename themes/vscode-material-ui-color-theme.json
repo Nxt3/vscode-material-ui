@@ -480,7 +480,7 @@
     "terminal.ansiCyan": "#04bcd4",
     "terminal.ansiBrightCyan": "#4dd0e1",
     "terminal.ansiWhite": "#bfbfbf",
-    "terminal.ansiBrightWhite": "#e6e5e6",
+    "terminal.ansiBrightWhite": "#fafafa",
 
     "welcomePage.buttonBackground": "#1C1D25",
     "welcomePage.buttonHoverBackground": "#1E88E520",
