@@ -293,7 +293,7 @@
     "scrollbarSlider.background": "#2196F330",
     "scrollbarSlider.hoverBackground": "#2196F360",
     "selection.background": "#9E9E9E",
-    "widget.shadow": "#1E1F29",
+    "widget.shadow": "#000000d0",
 
     "debugExceptionWidget.background": "#23272E",
     "debugExceptionWidget.border": "#1E88E5",
@@ -400,7 +400,7 @@
     "editorMarkerNavigationWarning.background": "",
     "editorWhitespace.foreground": "#3B4048",
     "editorWidget.background": "#282C34",
-    "editorWidgetBorder": "",
+    "editorWidget.border": "#2196F3",
 
     "diffEditor.insertedTextBackground": "#69F0AE30",
     "diffEditor.insertedTextBorder": "",
