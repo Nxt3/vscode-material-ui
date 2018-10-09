@@ -32,6 +32,7 @@
         "support.function.any-method",
         "entity.name.section",
         "entity.other.attribute-name.id",
+        "meta.attribute.id.html entity.other.attribute-name.html",
         "meta.require",
         "markup.heading",
         "markup.punctuation.definition.heading",
@@ -155,7 +156,7 @@
     },
     {
       "name": "Pink",
-      "scope": ["variable.language", "entity.other.attribute-name.id.html"],
+      "scope": ["variable.language"],
       "settings": {
         "foreground": "#ff4081"
       }
@@ -177,7 +178,12 @@
     },
     {
       "name": "Indigo",
-      "scope": ["variable.object", "variable.other.object.ts", "variable.other.object.property.ts"],
+      "scope": [
+        "variable.object",
+        "variable.other.object.ts",
+        "variable.other.object.property.ts",
+        "meta.attribute.class.html entity.other.attribute-name.html"
+      ],
       "settings": {
         "foreground": "#8c9eff"
       }
@@ -195,7 +201,8 @@
         "meta.brace.square",
         "meta.brace.curly",
         "meta.separator.key-value",
-        "text.html.basic entity.other.attribute-name",
+        "meta.attribute.unrecognized entity.other.attribute-name.html",
+        "entity.other.attribute-name.html",
         "source.css punctuation.delimiter"
       ],
       "settings": {
