@@ -341,9 +341,10 @@
 
     "gitDecoration.ignoredResourceForeground": "#ffffff88",
     "gitDecoration.modifiedResourceForeground": "#FFE57F",
-    "gitDecoration.untrackedResourceForeground": "#69F0AE",
-    "gitDecoration.conflictingResourceForeground": "#8C9EFF",
+    "gitDecoration.untrackedResourceForeground": "#8C9EFF",
+    "gitDecoration.conflictingResourceForeground": "#FF4081",
     "gitDecoration.deletedResourceForeground": "#FF8A80",
+    "gitDecoration.addedResourceForeground": "#69F0AE",
 
     "pickerGroup.border": "#353A42",
     "pickerGroup.foreground": "#696F79",
