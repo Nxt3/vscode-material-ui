@@ -338,6 +338,9 @@
     "list.hoverForeground": "#ffffff",
     "list.inactiveSelectionBackground": "#2195f34b",
     "list.inactiveSelectionForeground": "#e0e0e0",
+    "listFilterWidget.background": "#353A42",
+    "listFilterWidget.outline": "#69F0AE",
+    "listFilterWidget.noMatchesOutline": "#FF8A80",
 
     "gitDecoration.ignoredResourceForeground": "#ffffff88",
     "gitDecoration.modifiedResourceForeground": "#FFE57F",
