@@ -1,5 +1,8 @@
 # Changelog
 
+## [0.5.0]
+- Added 'listFilter' colors
+
 ## [0.4.0]
 - Added 'gitDecoration.addedResourceForeground'
 - Updated the gitDecoration colors to be more reflective of what they convey
