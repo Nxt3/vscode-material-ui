@@ -1,5 +1,10 @@
 # Changelog
 
+## [0.6.0]
+- Added new miniMap.findMatchHighlight color
+- Tweaked colors for editorOverviewRuler to match that of the gutter colors
+- Updated color for tab.activeModifiedBorder to be white
+
 ## [0.5.0]
 - Added 'listFilter' colors
 
