@@ -5,8 +5,8 @@
       "name": "Comment",
       "scope": ["comment", "unused.comment", "wildcard.comment"],
       "settings": {
-        "fontStyle": "italic",
-        "foreground": "#78909c"
+        "foreground": "#78909c",
+        "fontStyle": "italic"
       }
     },
     {
@@ -16,8 +16,8 @@
         "comment.block.documentation.js storage.type.class.jsdoc"
       ],
       "settings": {
-        "fontStyle": "bold italic",
-        "foreground": "#78909c"
+        "foreground": "#78909c",
+        "fontStyle": "bold italic"
       }
     },
     {
@@ -37,10 +37,19 @@
         "markup.heading",
         "markup.punctuation.definition.heading",
         "variable.other.readwrite.alias.ts",
-        "meta.structure.dictionary.json string.quoted.double.json"
+        "meta.structure.dictionary.json string.quoted.double.json",
+        "meta.path.search punctuation.separator"
       ],
       "settings": {
         "foreground": "#64b5f6"
+      }
+    },
+    {
+      "name": "Blue Bold",
+      "scope": ["meta.path.basename.search"],
+      "settings": {
+        "foreground": "#64b5f6",
+        "fontStyle": "bold"
       }
     },
     {
@@ -90,7 +99,9 @@
         "source.ts storage.type.class",
         "source.ts storage.type.interface",
         "meta.structure.dictionary.value.json string.quoted.double.json punctuation.definition.string.begin.json",
-        "meta.structure.dictionary.value.json string.quoted.double.json punctuation.definition.string.end.json"
+        "meta.structure.dictionary.value.json string.quoted.double.json punctuation.definition.string.end.json",
+        "meta.resultLinePrefix.lineNumber.search",
+        "meta.resultLinePrefix.matchLinePrefix.search punctuation.separator"
       ],
       "settings": {
         "foreground": "#cfd8dc"
@@ -117,8 +128,8 @@
       "name": "Yellow Bold",
       "scope": ["markup.bold"],
       "settings": {
-        "fontStyle": "bold",
-        "foreground": "#fff176"
+        "foreground": "#fff176",
+        "fontStyle": "bold"
       }
     },
     {
@@ -150,8 +161,8 @@
       "name": "Red Underline",
       "scope": ["entity.name.tag"],
       "settings": {
-        "fontStyle": "underline",
-        "foreground": "#ef5350"
+        "foreground": "#ef5350",
+        "fontStyle": "underline"
       }
     },
     {
@@ -172,8 +183,8 @@
       "name": "Purple Italic",
       "scope": ["punctuation.definition.italic", "markup.italic"],
       "settings": {
-        "fontStyle": "italic",
-        "foreground": "#b388ff"
+        "foreground": "#b388ff",
+        "fontStyle": "italic"
       }
     },
     {
@@ -182,7 +193,8 @@
         "variable.object",
         "variable.other.object.ts",
         "variable.other.object.property.ts",
-        "meta.attribute.class.html entity.other.attribute-name.html"
+        "meta.attribute.class.html entity.other.attribute-name.html",
+        "meta.path.dirname.search"
       ],
       "settings": {
         "foreground": "#8c9eff"
@@ -250,8 +262,8 @@
         "storage.type.class.optimize"
       ],
       "settings": {
-        "fontStyle": "italic",
-        "foreground": "#ff4081"
+        "foreground": "#ff4081",
+        "fontStyle": "italic"
       }
     },
     {
@@ -295,10 +307,10 @@
     "notifications.background": "#212121",
     "notifications.foreground": "#FFFFFF",
     "progressBar.background": "#FFFFFF",
-    "scrollbar.shadow": "#1E1F29",
-    "scrollbarSlider.activeBackground": "#2196F380",
-    "scrollbarSlider.background": "#2196F330",
-    "scrollbarSlider.hoverBackground": "#2196F360",
+    "scrollbar.shadow": "#000000cc",
+    "scrollbarSlider.background": "#ffffff55",
+    "scrollbarSlider.hoverBackground": "#ffffff70",
+    "scrollbarSlider.activeBackground": "#ffffff80",
     "selection.background": "#9E9E9E",
     "widget.shadow": "#000000d0",
 
@@ -349,13 +361,16 @@
     "gitDecoration.deletedResourceForeground": "#FF8A80",
     "gitDecoration.addedResourceForeground": "#69F0AE",
 
-    "pickerGroup.border": "#353A42",
-    "pickerGroup.foreground": "#696F79",
+    "pickerGroup.foreground": "#ffffff",
+    "pickerGroup.border": "#1E88E5",
+    "quickInput.background": "#1a1a1a",
+    "quickInput.foreground": "#ffffff",
 
     "minimap.findMatchHighlight": "#26c6da",
+    "minimap.selectionHighlight": "#1E88E5",
 
     "editorGroupHeader.tabsBackground": "#1C1D25",
-    "editorGroupHeader.tabsBorder": "#00000066",
+    "editorGroupHeader.tabsBorder": "#00000000",
     "tab.activeBackground": "#ffffff00",
     "tab.activeBorder": "#2196F3",
     "tab.activeModifiedBorder": "#ffffff",
