@@ -1,5 +1,8 @@
 {
   "name": "vscode-material-ui",
+  "semanticHighlighting": true,
+  // (*|type)(.modifier)*(:language)?
+  "semanticTokenColors": {},
   "tokenColors": [
     {
       "name": "Comment",
