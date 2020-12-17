@@ -1,5 +1,20 @@
 # Changelog
 
+## [0.7.0]
+- Improved contrast for Quick Input
+- Changed scrollbars to white to mitigate gross color combos in the scroll area
+- Fixed colors for the Search Editor
+- Updated colors for the minimap selection highlight color (made it brigher blue)
+- Removed the border from the editor group header tabs
+
+## [0.6.0]
+- Added new miniMap.findMatchHighlight color
+- Tweaked colors for editorOverviewRuler to match that of the gutter colors
+- Updated color for tab.activeModifiedBorder to be white
+
+## [0.5.0]
+- Added 'listFilter' colors
+
 ## [0.4.0]
 - Added 'gitDecoration.addedResourceForeground'
 - Updated the gitDecoration colors to be more reflective of what they convey
