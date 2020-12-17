@@ -311,9 +311,9 @@
     "notifications.foreground": "#FFFFFF",
     "progressBar.background": "#FFFFFF",
     "scrollbar.shadow": "#000000cc",
-    "scrollbarSlider.background": "#ffffff55",
-    "scrollbarSlider.hoverBackground": "#ffffff70",
-    "scrollbarSlider.activeBackground": "#ffffff80",
+    "scrollbarSlider.background": "#ffffff1a",
+    "scrollbarSlider.hoverBackground": "#ffffff55",
+    "scrollbarSlider.activeBackground": "#ffffff70",
     "selection.background": "#9E9E9E",
     "widget.shadow": "#000000d0",
 
@@ -371,6 +371,12 @@
 
     "minimap.findMatchHighlight": "#26c6da",
     "minimap.selectionHighlight": "#1E88E5",
+    "minimapSlider.background": "#ffffff1a",
+    "minimapSlider.hoverBackground": "#ffffff55",
+    "minimapSlider.activeBackground": "#ffffff70",
+    "minimapGutter.addedBackground": "#69F0AE",
+    "minimapGutter.modifiedBackground": "#FFD740",
+    "minimapGutter.deletedBackground": "#E53935",
 
     "editorGroupHeader.tabsBackground": "#1C1D25",
     "editorGroupHeader.tabsBorder": "#00000000",
