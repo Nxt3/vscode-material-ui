@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.0]
+## [1.0.0]
 - Improved contrast across the theme
 - Enabled semantic highlighting
 - Updated `scrollbarSlider` colors
