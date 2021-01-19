@@ -445,9 +445,7 @@
     "editorWidget.border": "#2196F3",
 
     "diffEditor.insertedTextBackground": "#69F0AE30",
-    "diffEditor.insertedTextBorder": "",
     "diffEditor.removedTextBackground": "#B7373060",
-    "diffEditor.removedTextBorder": "",
     "merge.currentHeaderBackground": "#B73730",
     "merge.currentContentBackground": "#B737307F",
     "merge.incomingHeaderBackground": "#2E7366",
