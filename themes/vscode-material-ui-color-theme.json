@@ -393,7 +393,7 @@
     "tab.unfocusedInactiveForeground": "#ffffff40",
 
     "editor.background": "#212121",
-    "editor.findMatchBackground": "#558EFC",
+    "editor.findMatchBackground": "#558dfcef",
     "editor.findMatchHighlightBackground": "#324464",
     "editor.findRangeHighlightBackground": "#324464",
     "editor.foreground": "#eeeeee",
