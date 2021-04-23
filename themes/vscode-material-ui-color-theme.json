@@ -324,7 +324,7 @@
     "dropdown.background": "#353942",
     "dropdown.border": "#353942",
     "dropdown.foreground": "#93A1A1",
-    // "errorForeground": "",
+    "errorForeground": "#FF4081",
     "focusBorder": "#1E88E5",
     "foreground": "#9096A2",
     "input.background": "#35394200",
