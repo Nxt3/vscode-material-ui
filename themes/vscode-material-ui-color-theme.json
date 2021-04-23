@@ -56,6 +56,14 @@
       }
     },
     {
+      "name": "Blue Bold Underline",
+      "scope": ["meta.class meta.method.declaration storage.type"],
+      "settings": {
+        "foreground": "#64b5f6",
+        "fontStyle": "bold underline"
+      }
+    },
+    {
       "name": "White",
       "scope": [
         "variable",
