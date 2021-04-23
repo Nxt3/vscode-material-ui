@@ -53,7 +53,7 @@
     },
     {
       "name": "Blue Bold",
-      "scope": ["meta.path.basename.search"],
+      "scope": ["meta.path.basename.search", "meta.class meta.method.declaration storage.type.property"],
       "settings": {
         "foreground": "#64b5f6",
         "fontStyle": "bold"
