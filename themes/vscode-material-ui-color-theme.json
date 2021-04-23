@@ -388,6 +388,7 @@
     "listFilterWidget.background": "#353A42",
     "listFilterWidget.outline": "#69F0AE",
     "listFilterWidget.noMatchesOutline": "#FF8A80",
+    "tree.indentGuidesStroke": "#ffffff40",
 
     "gitDecoration.ignoredResourceForeground": "#ffffff88",
     "gitDecoration.modifiedResourceForeground": "#FFE57F",
