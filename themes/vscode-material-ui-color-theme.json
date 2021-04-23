@@ -293,7 +293,7 @@
       ],
       "settings": {
         "foreground": "#ff4081",
-        "fontStyle": "italic"
+        "fontStyle": "bold italic"
       }
     },
     {
