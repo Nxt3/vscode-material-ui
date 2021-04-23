@@ -85,6 +85,25 @@
       }
     },
     {
+      "name": "White Italic",
+      "scope": ["meta.arrow variable.parameter"],
+      "settings": {
+        "foreground": "#FFFFFF",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "White Bold Underline",
+      "scope": [
+        "meta.method.declaration meta.definition.method entity.name.function",
+        "meta.function meta.definition.function entity.name.function"
+      ],
+      "settings": {
+        "foreground": "#FFFFFF",
+        "fontStyle": "bold underline"
+      }
+    },
+    {
       "name": "Green",
       "scope": [
         "keyword.control",
