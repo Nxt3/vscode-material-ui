@@ -199,7 +199,7 @@
       "name": "Pink",
       "scope": ["variable.language"],
       "settings": {
-        "foreground": "#ff4081"
+        "foreground": "#ec407a"
       }
     },
     {
