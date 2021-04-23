@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1]
+- Improved colors for peekViewEditor
+- Changes to function declarations
+  - Bold + Underline constructors
+  - Bold + Underline class functions
+  - Italic arrow function's parameters
+- Bold TODO Langauge syntax
+- Improvements to match color backgrounds
+- Improved diffEditor colors
+- Better support for support.type.builtin
+
+
 ## [1.0.0]
 - Improved contrast across the theme
 - Enabled semantic highlighting
