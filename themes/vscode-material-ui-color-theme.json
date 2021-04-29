@@ -264,7 +264,13 @@
     },
     {
       "name": "Orange",
-      "scope": ["constant.language.null", "punctuation.definition.bold", "support.class", "support.type.builtin"],
+      "scope": [
+        "constant.language.null",
+        "constant.language.undefined",
+        "punctuation.definition.bold",
+        "support.class",
+        "support.type.builtin"
+      ],
       "settings": {
         "foreground": "#ff8a65"
       }
