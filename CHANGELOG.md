@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.2]
+- Updated color for tree.indentGuideStroke
+- Remove Underline from getters/setters
+- Color errorForeground pink
+- Color const 'undefined' the same as 'null'
+
 ## [1.1]
 - Improved colors for peekViewEditor
 - Changes to function declarations
