@@ -193,10 +193,23 @@
     },
     {
       "name": "Red Underline",
-      "scope": ["entity.name.tag"],
+      "scope": ["entity.name.tag", "meta.jsx.children.tsx entity.name.tag.tsx support.class.component.tsx"],
       "settings": {
         "foreground": "#ef5350",
         "fontStyle": "underline"
+      }
+    },
+    {
+      "name": "Red Bold Underline",
+      "scope": [
+        "meta.tag.custom.start.html entity.name.tag.html",
+        "meta.tag.custom.end.html entity.name.tag.html",
+        "meta.embedded.expression.tsx entity.name.tag.tsx support.class.component.tsx",
+        "entity.name.tag.tsx support.class.component.tsx"
+      ],
+      "settings": {
+        "foreground": "#ef5350",
+        "fontStyle": "bold underline"
       }
     },
     {
@@ -249,6 +262,7 @@
         "meta.separator.key-value",
         "meta.attribute.unrecognized entity.other.attribute-name.html",
         "entity.other.attribute-name.html",
+        "entity.other.attribute-name.tsx",
         "source.css punctuation.delimiter"
       ],
       "settings": {
@@ -277,7 +291,12 @@
     },
     {
       "name": "Very Light Gray",
-      "scope": ["meta.separator", "variable.parameter.function", "variable.object.property.ts"],
+      "scope": [
+        "meta.separator",
+        "variable.parameter.function",
+        "variable.object.property.ts",
+        "variable.object.property.tsx"
+      ],
       "settings": {
         "foreground": "#eeeeee"
       }
@@ -482,6 +501,12 @@
     "editorWhitespace.foreground": "#3B4048",
     "editorWidget.background": "#282C34",
     "editorWidget.border": "#2196F3",
+    "editorBracketHighlight.foreground1": "#FFFFFF",
+    "editorBracketHighlight.foreground2": "#26c6da",
+    "editorBracketHighlight.foreground3": "#FF80AB",
+    "editorBracketHighlight.foreground4": "#64b5f6",
+    "editorBracketHighlight.foreground5": "#EEFF41",
+    "editorBracketHighlight.foreground6": "#00e676",
 
     "diffEditor.insertedTextBackground": "#69F0AE30",
     "diffEditor.removedTextBackground": "#B7373060",
