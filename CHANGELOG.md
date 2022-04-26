@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.3]
+WIP...
+- Updated TSX colors to be more like TS files
+- Bold and underline non-standard HTML tags (e.g 'ng-container', 'Fragment', 'my-component-name')
+- Updated bracket-matching bracket colors
+
 ## [1.2]
 - Updated color for tree.indentGuideStroke
 - Remove Underline from getters/setters
