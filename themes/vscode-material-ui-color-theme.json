@@ -193,7 +193,7 @@
     },
     {
       "name": "Red Underline",
-      "scope": ["entity.name.tag", "meta.jsx.children.tsx entity.name.tag.tsx support.class.component.tsx"],
+      "scope": ["entity.name.tag"],
       "settings": {
         "foreground": "#ef5350",
         "fontStyle": "underline"
